@@ -1,0 +1,17 @@
+[submodule "Docs"]
+	path = Docs
+	url = https://github.com/devdogio/Inventory-Pro-Docs
+
+[submodule "General"]
+	path = Assets/Devdog/General
+	url = https://github.com/devdogio/general
+	branch = master
+[submodule "Assets/Devdog/General"]
+	path = Assets/Devdog/General
+	url = https://github.com/devdogio/general.git
+[submodule "Assets/Devdog/InventoryPro"]
+	path = Assets/Devdog/InventoryPro
+	url = https://github.com/p10tr3k/Inventory-Pro
+[submodule "Assets/Devdog/QuestSystemPro"]
+	path = Assets/Devdog/QuestSystemPro
+	url = https://github.com/p10tr3k/Quest-System-Pro.git
